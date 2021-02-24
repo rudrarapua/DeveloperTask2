@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Developertask2\Developertask2\bin\Debug\Developertask2.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Developertask2\Developertask2\bin\Debug\Developertask2.exe
+c:\users\admin\documents\visual studio 2015\Projects\Developertask2\Developertask2\bin\Debug\Developertask2.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Developertask2\Developertask2\obj\Debug\Developertask2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Developertask2\Developertask2\obj\Debug\Developertask2.exe
+c:\users\admin\documents\visual studio 2015\Projects\Developertask2\Developertask2\obj\Debug\Developertask2.pdb
